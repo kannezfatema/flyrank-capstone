@@ -51,3 +51,10 @@ Frontend AI Engineering Intern
 
 GitHub:
 https://github.com/kannezfatema 
+
+## Future Goals
+
+- Build a professional frontend application.
+- Follow AI-assisted development practices.
+- Improve software engineering skills.
+- Complete the FlyRank Frontend AI Engineering Internship successfully.
