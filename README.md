@@ -26,6 +26,22 @@ The goal is to build a professional frontend application while following modern 
 
 ---
 
+## 🤖 AI-Assisted Development Workflow
+
+This project uses AI as a development accelerator while keeping engineering quality and ownership with the developer.
+
+| Phase | Practice |
+| --- | --- |
+| **Planning** | Use Cursor AI to explore approaches, draft structure, and review trade-offs before implementation. |
+| **Implementation** | Generate and refine UI and JavaScript with AI assistance; keep changes modular and readable. |
+| **Review** | Manually review all AI-generated code for correctness, accessibility, and maintainability. |
+| **Version Control** | Commit in small, focused changes with [Conventional Commits](https://www.conventionalcommits.org/). |
+| **Documentation** | Keep the README and project notes updated as features ship. |
+
+Guidelines for AI collaboration live in [`CLAUDE.md`](./CLAUDE.md).
+
+---
+
 ## 📂 Project Structure
 
 Coming soon...
