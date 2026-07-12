@@ -10,3 +10,9 @@
 - Follow Conventional Commits.
 - Keep code modular.
 - Do not remove existing features without explanation.
+## AI Workflow
+
+- Use Cursor AI for planning and code review.
+- Review AI-generated code before committing.
+- Follow Conventional Commits.
+- Keep documentation updated.
